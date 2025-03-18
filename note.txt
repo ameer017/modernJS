@@ -1,0 +1,6 @@
+🔹 Features of Our Notes App:
+Create Notes – Users can add new notes.
+Save Notes in Local Storage – Notes will persist even after refreshing.
+Delete Notes – Users can remove notes from storage.
+Use JSON for Data Handling – Store and retrieve notes in JSON format.
+Dark Mode Toggle – Optional feature for better UI experience.
